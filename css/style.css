@@ -1,0 +1,19 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0f0f1a;
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #1a1a2e;
+  padding: 20px;
+  text-align: center;
+}
+#projects-section {
+  padding: 40px;
+}
+.project img {
+  width: 100%;
+  max-width: 400px;
+}
